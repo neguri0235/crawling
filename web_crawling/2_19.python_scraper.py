@@ -1,3 +1,7 @@
+# 웹 페이지를 다운로드 받고
+# 스크레이핑
+# sqlite3에 저장
+
 import re
 import sqlite3
 import os

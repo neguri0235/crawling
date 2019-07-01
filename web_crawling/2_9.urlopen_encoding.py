@@ -1,3 +1,5 @@
+# 단순히 urlopen 으로 html을 다운받고 encoding 를 설정함
+
 import sys
 from urllib.request import urlopen
 

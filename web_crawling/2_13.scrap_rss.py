@@ -1,3 +1,5 @@
+# xml 을 파싱하는 것.
+
 import os
 from xml.etree import ElementTree
 path = os.getcwd()

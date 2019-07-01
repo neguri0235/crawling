@@ -1,3 +1,5 @@
+# urllib 로 다운 받은 다음에 . 다운받은 곳에서 encoding 을 가지고 옴
+
 import re
 import sys
 from urllib.request import urlopen
